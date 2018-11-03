@@ -1,6 +1,6 @@
       *------------------------------------------------------------------------
       * PROGRAMA.: RPSRVCONF
-      * AUTOR....: Personalsoft S.A.S. - Wilson David Calderón
+      * AUTOR....: Juan C
       * FECHA....: 2018-08-27
       * DESCRIP..: Consultar parametrización
       *------------------------------------------------------------------------

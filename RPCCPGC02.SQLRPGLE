@@ -1,6 +1,6 @@
       *------------------------------------------------------------------------
       * PROGRAMA...: RPCCPGC02
-      * AUTOR......: Personalsoft S.A.S. - Wilson David Calderón
+      * AUTOR......: Juan C
       * FECHA......: 2018-09-03
       * DESCRIPCION: Consultar gestión de colas CCP
       *------------------------------------------------------------------------
